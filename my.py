@@ -7,4 +7,7 @@ def sum1():
 
 def diff():
     print(np.diff([1,2,3]))
+
+def product():
+    print(np.prod([1,2,3]))
 print('hello world')
