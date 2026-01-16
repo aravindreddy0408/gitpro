@@ -10,4 +10,7 @@ def diff():
 
 def product():
     print(np.prod([1,2,3]))
+
+def mean():
+    print(np.mean([1,2,3]))
 print('hello world')
